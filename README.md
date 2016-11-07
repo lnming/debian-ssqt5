@@ -19,3 +19,4 @@ $ sudo dpkg -i shadowsocks-qt5_2.7.0-1_amd64.deb
 ## 测试使用
 * 运行shadowsocks-qt5,填好你的ss信息和win下配置差不多，配置好后用浏览器试试是否可行，若可以，那么恭喜，若不行（gfwlist无法更新缘故），就试试下面：
 * 在chrome扩展程序里面添加 Proxy SwitchyOmega 这个程序，上网查看配置方法，弄好之后，基本上就没啥问题了。
+* 附上SwitchyOmega详细教程: https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList
